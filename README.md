@@ -26,7 +26,7 @@ A minimal, ready-to-use template for creating Hytale plugins with modern build t
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/hytale-plugin-template.git
+git clone https://github.com/realBritakee/hytale-template-plugin.git
 cd hytale-plugin-template
 ```
 
